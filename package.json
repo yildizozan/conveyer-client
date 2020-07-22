@@ -1,0 +1,20 @@
+{
+  "name": "conveyer-client",
+  "version": "1.0.0",
+  "main": "main.js",
+  "repository": {
+    "url": "github.com/yildizozan/conveyer-client"
+  },
+  "author": "Ozan Yıldız",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^9.1.1"
+  },
+  "dependencies": {
+    "socket.io": "^2.3.0"
+  }
+}

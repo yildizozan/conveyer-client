@@ -1,0 +1,5 @@
+#directories
+bower_components
+node_modules
+dist
+.idea
